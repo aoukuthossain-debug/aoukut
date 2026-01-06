@@ -1,0 +1,5 @@
+{
+  "name": "HTML Craft",
+  "description": "An AI-powered frontend workbench that generates clean, semantic HTML and Tailwind CSS components from natural language descriptions. Preview instantly and export code in one click.",
+  "requestFramePermissions": []
+}
